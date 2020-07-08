@@ -6,4 +6,4 @@ if a>7:
   print('lol')
 else:
   print('fff')
-  
+print('Конец программы')
